@@ -8,8 +8,8 @@ st.set_page_config(page_title="Wine Quality Predictor", layout="wide")
 
 st.title("Wine Quality Classification Models")
 st.markdown("""
-The Machine Learning Model Deployment App! 
-Upload the `test_data.csv` file generated during training to evaluate the performance of 5 different classification algorithms on predicting wine quality.
+The Machine Learning Model Deployment App! """)
+st.markdown("""Upload the `test_data.csv` file to evaluate the performance of 5 different classification algorithms on predicting wine quality.
 """)
 
 st.header("Upload Test Data")
