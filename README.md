@@ -1,19 +1,19 @@
 # 2025AC05207_ML_Models_WineQuality
 Machine learning models to predict the quality of the Wines.
 
-##a. Problem Statement:
+#a. Problem Statement:
 The objective of this assignemnt is to develop, evaluate, and deploy multiple machine learning classification models to predict whether a specific wine is of "Good Quality" (quality score > 5) or "Bad Quality" based on its physicochemical tests. This assignment demonstrates an end-to-end ML deployment workflow, from model training and metric evaluation to serving the model through an interactive Streamlit web application, showing its practical deployment value.
 
-##b. Dataset Description:
+#b. Dataset Description:
   i. Source: UCI Machine Learning Repository (Wine Quality Dataset - combining Red and White wine variants to satisfy the feature constraints).
   ii. Features: 12 independent features (wine_type, fixed acidity, volatile acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, total   sulfur dioxide, density, pH, sulphates, alcohol).  
   iii. Instances: 6,497 total instances, fulfilling the minimum 500 instance requirement.  
   iv. Target: Binary classification target named quality_label (1 for Good Quality, 0 for Bad Quality).
 
-##c. Github Repository Link:
+#c. Github Repository Link:
 
 
-##d. Models Used:
+#d. Models Used:
 The following table outlines the evaluation metrics calculated on the test dataset for all five implemented models.
 | ML Model Name       |   Accuracy |    AUC |   Precision |   Recall |     F1 |    MCC |
 |:--------------------|-----------:|-------:|------------:|---------:|-------:|-------:|
