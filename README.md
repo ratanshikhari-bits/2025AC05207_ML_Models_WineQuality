@@ -11,7 +11,7 @@ The objective of this assignemnt is to develop, evaluate, and deploy multiple ma
   iv. Target: Binary classification target named quality_label (1 for Good Quality, 0 for Bad Quality).
 
 ## c. Github Repository Link:
-
+https://github.com/ratanshikhari-bits/2025AC05207_ML_Models_WineQuality.git
 
 ## d. Models Used:
 The following table outlines the evaluation metrics calculated on the test dataset for all five implemented models.
